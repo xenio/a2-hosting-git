@@ -1,3 +1,6 @@
+Additional Informations:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+
 # Using Git instead of FTP
 
 The following relates to [A2 Hosting](http://www.a2hosting.com) but it should be a similar process for any web host server. For A2 Hosting, public websites should be placed in the **public_html** folder in your home directory. Your home directory path is **/home/username** where username is your A2 Hosting username. There are 3 main steps to using Git as a replacement for FTP with your web host:  
